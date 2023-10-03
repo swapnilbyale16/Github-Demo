@@ -1,4 +1,4 @@
 # Github-Demo
 This is my first Git Repository.
 <br>
-Author-Swapnil Byale
+Author-Swapnil Byale (swwapnil)
